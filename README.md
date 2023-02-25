@@ -2,9 +2,9 @@
 
 <img src= "https://user-images.githubusercontent.com/81640351/213814234-b3c4fd41-c80a-4ca4-98a6-8aed7aa6da3d.png" whith = "480px"/>
 
-**Latest working macOS**: 13.1
+**Latest working macOS**: 12.6.3
 <br>
-**Current OpenCore**: 0.8.8
+**Current OpenCore**: 0.8.9
 
 ## Complete hardware specs
 - Ryzen 3 2200G @ Stock
@@ -44,6 +44,7 @@
 
 ## Geekbench Results:
 - <a href="https://browser.geekbench.com/v5/cpu/20000551">iMacPro1,1</a>
+- <a href="https://browser.geekbench.com/v6/cpu/298436">iMacPro7,1</a>
 
 ## Notices
 - To use WIFI-USB, you need to check the compatibility and installation of the .dmg file, see the Wireless-USB-OC credits

@@ -4,7 +4,7 @@
 
 **Latest working macOS**: 12.6.3
 <br>
-**Current OpenCore**: 0.8.9
+**Current OpenCore**: 0.9.1
 
 ## Complete hardware specs
 - Ryzen 3 2200G @ Stock
@@ -30,7 +30,6 @@
 - AMDRyzenCPUPowerManagement.kext
 - AppleALC.kext
 - AppleMCEReporterDisabler.kext
-- FeatureUnlock.kext
 - Lilu.kext
 - RadeonSensor.kext
 - RealtekRTL8111.kext

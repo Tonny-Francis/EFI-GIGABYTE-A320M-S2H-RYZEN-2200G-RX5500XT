@@ -4,7 +4,7 @@
 
 **Latest working macOS**: 12.6.3
 <br>
-**Current OpenCore**: 0.9.1
+**Current OpenCore**: 1.0.1
 
 ## Complete hardware specs
 - Ryzen 3 2200G @ Stock
@@ -40,6 +40,7 @@
 - USBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
+- NVMeFix.kext
 
 ## Geekbench Results:
 - <a href="https://browser.geekbench.com/v5/cpu/20000551">iMacPro1,1</a>
